@@ -1,33 +1,47 @@
 # 🧬 Benchmarking Spatial Transcriptomics Technologies Across Six Cancer Types
 
 > **Title**: Benchmarking of spatial transcriptomics platforms across six cancer types  
-> **Authors**: Sergi Cervilla, Daniela Grases, Elena Perez, Eva Musulen, Eduard Porta-Pardo  
-> **DOI**: [10.1101/2024.05.21.593407](https://doi.org/10.1101/2024.05.21.593407)  
-> **Preprint**: https://doi.org/10.1101/2024.05.21.593407
+> **Authors**: Sergi Cervilla*, Daniela Grases*, Elena Perez, Francisco X. Real, Eva Musulen, Julieta Aprea, Manel Esteller, Eduard Porta-Pardo  
+> **Preprint (April 2025)**: https://doi.org/10.1101/2024.05.21.593407
 
 ---
 
-## 📘 Overview
+## Overview
 
-This repository contains the code, analysis scripts, and data processing workflows used in our benchmarking study comparing multiple spatial transcriptomics (ST) platforms across six cancer types.:contentReference[oaicite:6]{index=6}
+This repository contains the analysis and figure scripts used in our benchmarking study comparing multiple spatial transcriptomics platforms across six cancer types.:contentReference[oaicite:6]{index=6}
 
 ![Benchmark Workflow](images/fig1_draft.png)
 
 ---
 
-## 🧪 Platforms Evaluated
-
-:contentReference[oaicite:12]{index=12}:contentReference[oaicite:14]{index=14}
-
-- :contentReference[oaicite:16]{index=16}
-- :contentReference[oaicite:19]{index=19}
-- :contentReference[oaicite:22]{index=22}
-- :contentReference[oaicite:25]{index=25}
-- :contentReference[oaicite:28]{index=28}:contentReference[oaicite:30]{index=30}
-
-:contentReference[oaicite:32]{index=32}:contentReference[oaicite:34]{index=34}
+## Download the data
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
+
+├── scripts/ # Data processing and utility scripts
+│ ├── download_data.py # Script to fetch data from GEO/Zenodo
+│ ├── preprocess.R # Preprocessing and quality control
+│ └── run_metrics.py # Compute benchmarking metrics
+│
+├── notebooks/ # Jupyter or RMarkdown notebooks for analysis
+│ ├── 01_qc.ipynb # Quality control exploration
+│ ├── 02_metrics.ipynb # Platform comparison metrics
+│ └── 03_visualization.ipynb # Figures and plots for manuscript
+│
+├── results/ # Output files: metrics, tables, and final plots
+│ └── figures/ # Final figures used in the paper
+│
+├── env/ # Environment configuration
+  └── environment.yml # Conda environment definition
+
+
+---
+
+## Contact information
+- **Data Analysis**: [Sergi Cervilla] – [scervillag@carrerasresearch.org]  
+- **Wet Lab Experiments**: [Daniela Grases] – [dgrases@carrerasresearch.org]  
+- **Corresponding Author**: [Eduard Porta] – [eporta@carrerasresearch.org]
+---
