@@ -11,7 +11,7 @@
 
 This repository contains the code, analysis scripts, and data processing workflows used in our benchmarking study comparing multiple spatial transcriptomics (ST) platforms across six cancer types.:contentReference[oaicite:6]{index=6}
 
-:contentReference[oaicite:8]{index=8}:contentReference[oaicite:10]{index=10}
+![Benchmark Workflow](images/fig1_draft.png)
 
 ---
 
