@@ -15,9 +15,14 @@ This repository contains the analysis and figure scripts used in our benchmarkin
 ---
 
 ## Download the data
-**Visium v1, Visium v2/CytAssist, VisiumHD**: https://doi.org/10.5281/zenodo.17999961
-**Xenium (Multi-tissue without multi-modal segmentation), CosMx**: https://doi.org/10.5281/zenodo.17986017
-**XeniumMT (Multi-tissue), Xenium5K (Prime 5K)**: https://doi.org/10.5281/zenodo.18000256
+- **Visium v1, Visium v2 / CytAssist, Visium HD**  
+  https://doi.org/10.5281/zenodo.17999961
+
+- **Xenium (Multi-tissue without multi-modal segmentation), CosMx**  
+  https://doi.org/10.5281/zenodo.17986017
+
+- **Xenium MT (Multi-tissue), Xenium 5K (Prime 5K)**  
+  https://doi.org/10.5281/zenodo.18000256
 ---
 
 ## Contact information
