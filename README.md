@@ -1,8 +1,8 @@
 # Benchmarking Spatial Transcriptomics Technologies Across Six Cancer Types
 
-> **Title**: Benchmarking of spatial transcriptomics platforms across six cancer types  
+> **Title**: A technical comparison of spatial transcriptomics platforms across six cancer types   
 > **Authors**: Sergi Cervilla*, Daniela Grases*, Elena Perez, Francisco X. Real, Eva Musulen, Julieta Aprea, Manel Esteller, Eduard Porta-Pardo  
-> **Preprint (April 2025)**: https://doi.org/10.1101/2024.05.21.593407
+
 
 ---
 
