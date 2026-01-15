@@ -1,7 +1,7 @@
 # A technical comparison of spatial transcriptomics platforms across six cancer types 
 
-> **Title**: A technical comparison of spatial transcriptomics platforms across six cancer types   
-> **Authors**: Sergi Cervilla*, Daniela Grases*, Elena Perez, Francisco X. Real, Eva Musulen, Julieta Aprea, Manel Esteller, Eduard Porta-Pardo  
+> **Authors**: Sergi Cervilla*, Daniela Grases*, Elena Perez, Francisco X. Real, Eva Musulen, Julieta Aprea, Manel Esteller, Eduard Porta-Pardo
+> **Manuscript**: https://doi.org/10.1186/s13059-026-03937-y  
 
 
 ---
